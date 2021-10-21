@@ -7,185 +7,164 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Yannik Korzikowski
+    tagline: Backend Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: mail@yksolutions.eu
+    phone: +49 156 78384591
+    website: yksolutions.eu #do not add http://
+    linkedin: ykorzikowski
+    xing: Yannik_Korzikowski
+    github: ykorzikowski
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@ykorzi_'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://yksolutions.eu/cv.pdf
 
     languages:
-      - idiom: English
+      - idiom: German
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
+      - idiom: Dutch
         level: Professional
 
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
+      - item: Photographing
         link:
 
       - item: Cooking
         link:
 
+
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a self-employed photographer, software / devops / mobile developer, studied Technical Communication with Computer Science in Aachen.
+
+      I have over 5 years experience in software developing and managing software developing process.
+
+      During my studies I also developed skillset for writing technical documentation and text.
+      Feel free to contact me for your software project and I will make you an unseald offer.
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BSc in Technical Communication with Computer Science
+      university: RWTH Aachen University
+      time: 2016 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Check out https://www.rwth-aachen.de/cms/root/Studium/Vor-dem-Studium/Studiengaenge/Liste-Aktuelle-Studiengaenge/Studiengangbeschreibung/~bkfd/Technik-Kommunikation-B-Sc/?lidx=1
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Developer
+      time: 2021 - Present
+      company: APSoftware, Aachen
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Parsing paper invoices to relational data; checking algorithm for validating date
+          - Java / Spring / MariaDB
+    - role: Software Engineer
+      time: 2019 - 2020
+      company: Schwarz IT, Heilbronn - duration 12 month
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Developing python soap importer for cooling data; supporting internal employees setting up open shift cluste; creating dashboards with thingsboard and grafana
+          - Java / Python
+          - Docker / OpenShift / Grafana / Prometheus
+          - PostgreSQL / MariaDB
+    - role: Software Engineer
+      time: 2018 - 2019
+      company: Kelvion GmbH, Bochum - duration 6 month
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Improving plugin for configuration software (tacton) for cooling devices; plugin should create cad xml with material information
+          - Java / Spring
+    - role: Software Engineer
+      time: 2017 - 2018
+      company: Aixigo AG, Aachen - duration 12 month
+      details: |
+        creating portfolio report pdfs for legal threshold information; optimizing developement process
+          - Java
+          - OracleDB
+
+    - role: Student Software Developer
+      time: 2016 - 2017
+      company: IMA/ZLW & IfU, Aachen
+      details: |
+        developing android app for local city project; helping with scientific project for list analysis
+        - Java
+        - Android
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Following there are some open source projects I maintain, maintained or contributed to.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: python-fritz-office-365-sync
+        link: "https://github.com/ykorzikowski/python-fritz-office-365-sync"
+        tagline: "A python script to control heating thermostats via office 365 calendar"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: tiny release
+        link: "https://github.com/ykorzikowski/tiny-release"
+        tagline: "A flutter app for creating pdf contracts for model releases on location; directly sign it"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: teams webhook for drone ci
+        link: "https://github.com/ykorzikowski/msteams-go-webhook"
+        tagline: "Go lang library to send messages to ms teams via incoming webhooks."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Linux - Docker - lxc
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: OpenShift - Proxmox
         level: 98%
 
-      - name: Angular
+      - name: Git - SVN
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: DroneCI - GitlabCI
+        level: 98%
+
+      - name: Jenkins
+        level: 98%
+
+      - name: VSCode - IntelliJ
+        level: 98%
+
+      - name: Java - Kotlin
+        level: 98%
+
+      - name: Python - Dart - Go
+        level: 75%
+
+      - name: PostgreSQL - MariaDB
         level: 95%
 
-      - name: Ruby on Rails
+      - name: OracleDB
+        level: 95%
+
+      - name: Spring - JUnit
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Hibernate - C3P0
+        level: 85%
+
+      - name: conda - panda
+        level: 60%
+
+      - name: tensorflow - pytorch
+        level: 60%
+
+
+      - name: flutter - android - iOS
         level: 60%
 
 footer: >
