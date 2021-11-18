@@ -70,6 +70,13 @@ experiences:
       details: |
         Parsing paper invoices to relational data; checking algorithm for validating date
           - Java / Spring / MariaDB
+    - role: Infrastructure Administrator
+      time: 2017 - 2021
+      company: Ingenieurbuero Tobias Pyttel - duration 4 years
+      details: |
+        managing server infrastructure for an it company.
+          - Linux / Docker
+          - DNS and network administration
     - role: Software Engineer
       time: 2019 - 2020
       company: Schwarz IT, Heilbronn - duration 12 month
