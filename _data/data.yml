@@ -65,7 +65,16 @@ education:
           - Bullet point
 experiences:
     - role: Software Developer
-      time: 2021 - Present
+      time: 2022 - present
+      company: NDA
+      details: |
+        Building, Deploying & Running of a online shop
+          - Support & Coachin of developers
+          - Java / Spring / MongoDB
+          - RabbitMQ
+          - Gitlab
+    - role: Software Developer - duration 10 month
+      time: 2021 - 2022
       company: APSoftware, Aachen
       details: |
         Parsing paper invoices to relational data; checking algorithm for validating date
