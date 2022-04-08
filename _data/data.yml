@@ -64,7 +64,7 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Software Developer
+    - role: IT Consulting / DevOps
       time: 2022 - present
       company: NDA
       details: |
@@ -73,9 +73,9 @@ experiences:
           - Java / Spring / MongoDB
           - RabbitMQ
           - Gitlab
-    - role: Software Developer - duration 10 month
+    - role: Senior Software Developer / DevOps
       time: 2021 - 2022
-      company: APSoftware, Aachen
+      company: APSoftware, Aachen  - duration 10 month
       details: |
         Parsing paper invoices to relational data; checking algorithm for validating date
           - Java / Spring / MariaDB
