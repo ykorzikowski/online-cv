@@ -155,7 +155,7 @@ skills:
       - name: Python - Dart - Go
         level: 75%
 
-      - name: PostgreSQL - MariaDB
+      - name: PostgreSQL - MariaDB - MongoDB
         level: 95%
 
       - name: OracleDB
