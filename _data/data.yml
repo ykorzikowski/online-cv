@@ -143,7 +143,10 @@ skills:
       - name: OpenShift - Proxmox
         level: 98%
 
-      - name: AWS - RDS, ECS, Lambda, CloudWatch, EC2, SQS, SNS
+      - name: AWS - RDS, ECS, EC2, CloudWatch
+        level: 98%
+
+      - name: AWS - Lambda, SQS, SNS, ECR, EKS, Security Groups
         level: 98%
 
       - name: Git - SVN
