@@ -61,15 +61,21 @@ education:
       time: 2016 - 2021
       details: |
         Check out https://www.rwth-aachen.de/cms/root/Studium/Vor-dem-Studium/Studiengaenge/Liste-Aktuelle-Studiengaenge/Studiengangbeschreibung/~bkfd/Technik-Kommunikation-B-Sc/?lidx=1
-          - Bullet point
-          - Bullet point
 experiences:
     - role: IT Consulting / DevOps
       time: 2022 - present
       company: NDA
       details: |
+        Improving Developing Process as DevOps Engineer
+          - Kubernetes / Docker / Docker-Compose
+          - Java / Spring / MongoDB
+          - Helm / GithubCI
+    - role: IT Consulting / DevOps
+      time: 2022 - present
+      company: NDA
+      details: |
         Building, Deploying & Running of an online shop
-          - Support & Coachin of developers
+          - Support & Coaching of developers
           - Java / Spring / MongoDB
           - RabbitMQ
           - Gitlab
