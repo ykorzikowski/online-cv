@@ -62,17 +62,9 @@ education:
       details: |
         Check out https://www.rwth-aachen.de/cms/root/Studium/Vor-dem-Studium/Studiengaenge/Liste-Aktuelle-Studiengaenge/Studiengangbeschreibung/~bkfd/Technik-Kommunikation-B-Sc/?lidx=1
 experiences:
-    - role: IT Consulting / DevOps
-      time: 2022 - present
-      company: NDA
-      details: |
-        Improving Developing Process as DevOps Engineer
-          - Kubernetes / Docker / Docker-Compose
-          - Java / Spring / MongoDB
-          - Helm / GithubCI
-    - role: IT Consulting / DevOps
-      time: 2022 - present
-      company: NDA
+    - role: IT Consulting / Software Developer
+      time: 2022
+      company: Weltbild via Hays, Augsburg - duration 5 month
       details: |
         Building, Deploying & Running of an online shop
           - Support & Coaching of developers
