@@ -65,7 +65,7 @@ experiences:
           - Gitlab
     - role: IT Consulting / Senior Software Developer / DevOps
       time: 2021 - 2022
-      company: APSoftware, Aachen  - duration 10 month
+      company: APSoftware, Aachen - duration 10 month
       details: |
         Parsing paper invoices to relational data; checking algorithm for validating date
           - Java / Spring / MariaDB
@@ -98,7 +98,7 @@ experiences:
           - Java
           - OracleDB
 
-    - role: Student Software Developer
+    - role: Student Software Developer - duration 1.5 years
       time: 2016 - 2017
       company: IMA/ZLW & IfU, Aachen
       details: |
