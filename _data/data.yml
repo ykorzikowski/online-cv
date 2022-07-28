@@ -135,6 +135,12 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: PostgreSQL - MariaDB - MongoDB - OracleDB
+        level: 95%
+
+      - name: DevOps
+        level: 100%
+
       - name: Linux - Docker - lxc
         level: 98%
 
@@ -150,39 +156,29 @@ skills:
       - name: Git - SVN
         level: 98%
 
-      - name: DroneCI - GitlabCI
-        level: 98%
-
-      - name: Jenkins
+      - name: Jenkins - DroneCI - GitlabCI
         level: 98%
 
       - name: VSCode - IntelliJ
         level: 98%
 
       - name: Java - Kotlin
-        level: 98%
+        level: 100%
 
-      - name: Python - Dart - Go
-        level: 75%
-
-      - name: PostgreSQL - MariaDB - MongoDB
-        level: 95%
-
-      - name: OracleDB
-        level: 95%
-
-      - name: Spring - JUnit
+      - name: Spring Boot - JUnit
         level: 85%
 
       - name: Hibernate - C3P0
         level: 85%
 
-      - name: conda - panda
-        level: 60%
+      - name: Python - Dart - Go
+        level: 85%
+
+      - name: conda - panda - PyTest - PyMongo
+        level: 85%
 
       - name: tensorflow - pytorch
-        level: 60%
-
+        level: 85%
 
       - name: flutter - android - iOS
         level: 60%
