@@ -7,6 +7,13 @@
        font-size: 12pt;
     }
 
+    .main-wrapper .job-title {
+      font-weight: bold!important;
+      font-size: 18px;
+    }
+    .main-wrapper .details {
+      font-weight: lighter!important;
+    }
     img.avatar {
         filter: grayscale(1);
         -webkit-filter: greyscale(1);
@@ -19,6 +26,7 @@
     .sidebar-wrapper {
         position: static;
         float: right;
+        padding: 15px;
         width: 40%;
         -webkit-print-color-adjust: exact; 
     }

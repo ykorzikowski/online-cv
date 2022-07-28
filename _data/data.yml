@@ -37,14 +37,6 @@ sidebar:
       - idiom: Dutch
         level: Professional
 
-    interests:
-      - item: Photographing
-        link:
-
-      - item: Cooking
-        link:
-
-
 career-profile:
     title: Career Profile
     summary: |
@@ -71,7 +63,7 @@ experiences:
           - Java / Spring / MongoDB
           - RabbitMQ
           - Gitlab
-    - role: Senior Software Developer / DevOps
+    - role: IT Consulting / Senior Software Developer / DevOps
       time: 2021 - 2022
       company: APSoftware, Aachen  - duration 10 month
       details: |
@@ -118,6 +110,10 @@ projects:
     intro: >
       Following there are some open source projects I maintain, maintained or contributed to.
     assignments:
+      - title: kafka-logging-sidecar
+        link: "https://github.com/ykorzikowski/kafka-logging-sidecar"
+        tagline: "A python sidecar container for kubernetes, which read json-encoded-logging from stdout of another process and prettyfies or write it to kafka"
+
       - title: python-fritz-office-365-sync
         link: "https://github.com/ykorzikowski/python-fritz-office-365-sync"
         tagline: "A python script to control heating thermostats via office 365 calendar"
