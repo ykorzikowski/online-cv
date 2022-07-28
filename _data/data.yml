@@ -132,52 +132,36 @@ skills:
 
     toolset:
       - name: PostgreSQL - MariaDB - MongoDB - OracleDB
-        level: 95%
 
       - name: DevOps
-        level: 100%
 
       - name: Linux - Docker - lxc
-        level: 98%
 
       - name: OpenShift - Proxmox
-        level: 98%
 
       - name: AWS - RDS, ECS, EC2, CloudWatch
-        level: 98%
 
       - name: AWS - Lambda, SQS, SNS, ECR, EKS, Security Groups
-        level: 98%
 
       - name: Git - SVN
-        level: 98%
 
-      - name: Jenkins - DroneCI - GitlabCI
-        level: 98%
+      - name: Jenkins - DroneCI - GitlabCI - Github Actions
 
       - name: VSCode - IntelliJ
-        level: 98%
 
       - name: Java - Kotlin
-        level: 100%
 
       - name: Spring Boot - JUnit
-        level: 85%
 
       - name: Hibernate - C3P0
-        level: 85%
 
       - name: Python - Dart - Go
-        level: 85%
 
       - name: conda - panda - PyTest - PyMongo
-        level: 85%
 
       - name: tensorflow - pytorch
-        level: 85%
 
       - name: flutter - android - iOS
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
