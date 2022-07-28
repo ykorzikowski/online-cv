@@ -98,9 +98,9 @@ experiences:
           - Java
           - OracleDB
 
-    - role: Student Software Developer - duration 1.5 years
+    - role: Student Software Developer
       time: 2016 - 2017
-      company: IMA/ZLW & IfU, Aachen
+      company: IMA/ZLW & IfU, Aachen - duration 1.5 years
       details: |
         developing android app for local city project; helping with scientific project for list analysis
         - Java
