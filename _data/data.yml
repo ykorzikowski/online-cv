@@ -137,7 +137,7 @@ skills:
 
       - name: Linux - Docker - lxc
 
-      - name: OpenShift - Proxmox
+      - name: OpenShift - Kubernetes - Proxmox
 
       - name: AWS - RDS, ECS, EC2, CloudWatch
 
@@ -150,6 +150,8 @@ skills:
       - name: VSCode - IntelliJ
 
       - name: Java - Kotlin
+
+      - name: Microservices - TDD - Integration Tests
 
       - name: Spring Boot - JUnit
 
