@@ -55,8 +55,8 @@ education:
         Check out https://www.rwth-aachen.de/cms/root/Studium/Vor-dem-Studium/Studiengaenge/Liste-Aktuelle-Studiengaenge/Studiengangbeschreibung/~bkfd/Technik-Kommunikation-B-Sc/?lidx=1
 experiences:
     - role: IT Consulting / Software Developer
-      time: 2022
-      company: Weltbild via Hays, Augsburg - duration 5 month
+      time: in 2022
+      company: a german trading company in Augsburg - duration 5 month
       details: |
         Building, Deploying & Running of an online shop
           - Support & Coaching of developers
@@ -65,20 +65,20 @@ experiences:
           - Gitlab
     - role: IT Consulting / Senior Software Developer / DevOps
       time: 2021 - 2022
-      company: APSoftware, Aachen - duration 10 month
+      company: a financial software company in aachen - duration 10 month
       details: |
         Parsing paper invoices to relational data; checking algorithm for validating date
           - Java / Spring / MariaDB
     - role: Infrastructure Administrator
       time: 2017 - 2021
-      company: Ingenieurbuero Tobias Pyttel - duration 4 years
+      company: an engineering office in aachen - duration 4 years
       details: |
         managing server infrastructure for an it company.
           - Linux / Docker
           - DNS and network administration
     - role: Software Engineer
       time: 2019 - 2020
-      company: Schwarz IT, Heilbronn - duration 12 month
+      company: it company for the largest european retailer in Heilbronn - duration 12 month
       details: |
         Developing python soap importer for cooling data; supporting internal employees setting up open shift cluste; creating dashboards with thingsboard and grafana
           - Java / Python
@@ -86,13 +86,13 @@ experiences:
           - PostgreSQL / MariaDB
     - role: Software Engineer
       time: 2018 - 2019
-      company: Kelvion GmbH, Bochum - duration 6 month
+      company: manufacturer for industrial heat exchangers - duration 6 month
       details: |
         Improving plugin for configuration software (tacton) for cooling devices; plugin should create cad xml with material information
           - Java / Spring
     - role: Software Engineer
       time: 2017 - 2018
-      company: Aixigo AG, Aachen - duration 12 month
+      company: a company for digital wealth management in aachen - duration 12 month
       details: |
         creating portfolio report pdfs for legal threshold information; optimizing developement process
           - Java
@@ -100,7 +100,7 @@ experiences:
 
     - role: Student Software Developer
       time: 2016 - 2017
-      company: IMA/ZLW & IfU, Aachen - duration 1.5 years
+      company: institute of university - duration 1.5 years
       details: |
         developing android app for local city project; helping with scientific project for list analysis
         - Java
